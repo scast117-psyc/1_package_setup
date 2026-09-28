@@ -1,5 +1,6 @@
 #Navigate to each line and click "run" or use cmd-Enter (Mac) or Ctrl+Enter (PC)
 
+#changes
 # Check your R version
 R.Version()
 
